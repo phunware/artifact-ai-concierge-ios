@@ -1,0 +1,2720 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "PhunwareAIConcierge",
+    "printedName": "PhunwareAIConcierge",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PWCore",
+        "printedName": "PWCore",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareCorePlugin",
+        "printedName": "PhunwareCorePlugin",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Speech",
+        "printedName": "Speech",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareCorePlugin",
+        "printedName": "PhunwareCorePlugin",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareCorePlugin",
+        "printedName": "PhunwareCorePlugin",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PWCore",
+        "printedName": "PWCore",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PWCore",
+        "printedName": "PWCore",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareFoundation",
+        "printedName": "PhunwareFoundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareCorePlugin",
+        "printedName": "PhunwareCorePlugin",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwarePermissionPriming",
+        "printedName": "PhunwarePermissionPriming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AssistantCoordinatorDelegate",
+        "printedName": "AssistantCoordinatorDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "coordinator",
+            "printedName": "coordinator(_:didTrigger:for:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AssistantCoordinator",
+                "printedName": "PhunwareAIConcierge.AssistantCoordinator",
+                "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Action",
+                "printedName": "PhunwareCorePlugin.Action",
+                "usr": "s:18PhunwareCorePlugin6ActionO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge28AssistantCoordinatorDelegateP11coordinator_10didTrigger3foryAA0cD0C_0A10CorePlugin6ActionOSStF",
+            "mangledName": "$s19PhunwareAIConcierge28AssistantCoordinatorDelegateP11coordinator_10didTrigger3foryAA0cD0C_0A10CorePlugin6ActionOSStF",
+            "moduleName": "PhunwareAIConcierge",
+            "genericSig": "<τ_0_0 where τ_0_0 : PhunwareAIConcierge.AssistantCoordinatorDelegate>",
+            "sugared_genericSig": "<Self where Self : PhunwareAIConcierge.AssistantCoordinatorDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "coordinatorDidFinish",
+            "printedName": "coordinatorDidFinish(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "AssistantCoordinator",
+                "printedName": "PhunwareAIConcierge.AssistantCoordinator",
+                "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge28AssistantCoordinatorDelegateP20coordinatorDidFinishyyAA0cD0CF",
+            "mangledName": "$s19PhunwareAIConcierge28AssistantCoordinatorDelegateP20coordinatorDidFinishyyAA0cD0CF",
+            "moduleName": "PhunwareAIConcierge",
+            "genericSig": "<τ_0_0 where τ_0_0 : PhunwareAIConcierge.AssistantCoordinatorDelegate>",
+            "sugared_genericSig": "<Self where Self : PhunwareAIConcierge.AssistantCoordinatorDelegate>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19PhunwareAIConcierge28AssistantCoordinatorDelegateP",
+        "mangledName": "$s19PhunwareAIConcierge28AssistantCoordinatorDelegateP",
+        "moduleName": "PhunwareAIConcierge",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AssistantCoordinator",
+        "printedName": "AssistantCoordinator",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "navigationController",
+            "printedName": "navigationController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UINavigationController",
+                    "printedName": "UIKit.UINavigationController",
+                    "usr": "c:objc(cs)UINavigationController"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UINavigationController",
+                    "printedName": "UIKit.UINavigationController",
+                    "usr": "c:objc(cs)UINavigationController"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0Cvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0CvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20navigationControllerSo012UINavigationF0CvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "childCoordinators",
+            "printedName": "childCoordinators",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[any PhunwareFoundation.Coordinator]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Coordinator",
+                    "printedName": "any PhunwareFoundation.Coordinator",
+                    "usr": "s:18PhunwareFoundation11CoordinatorP"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[any PhunwareFoundation.Coordinator]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Coordinator",
+                        "printedName": "any PhunwareFoundation.Coordinator",
+                        "usr": "s:18PhunwareFoundation11CoordinatorP"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[any PhunwareFoundation.Coordinator]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Coordinator",
+                        "printedName": "any PhunwareFoundation.Coordinator",
+                        "usr": "s:18PhunwareFoundation11CoordinatorP"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC17childCoordinatorsSay0A10Foundation0D0_pGvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pendingDeeplink",
+            "printedName": "pendingDeeplink",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PhunwareCorePlugin.DeferredDeeplink?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DeferredDeeplink",
+                    "printedName": "PhunwareCorePlugin.DeferredDeeplink",
+                    "usr": "s:18PhunwareCorePlugin16DeferredDeeplinkV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "PhunwareCorePlugin.DeferredDeeplink?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DeferredDeeplink",
+                        "printedName": "PhunwareCorePlugin.DeferredDeeplink",
+                        "usr": "s:18PhunwareCorePlugin16DeferredDeeplinkV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "PhunwareCorePlugin.DeferredDeeplink?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DeferredDeeplink",
+                        "printedName": "PhunwareCorePlugin.DeferredDeeplink",
+                        "usr": "s:18PhunwareCorePlugin16DeferredDeeplinkV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15pendingDeeplink0A10CorePlugin08DeferredF0VSgvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "childNavigationHandlers",
+            "printedName": "childNavigationHandlers",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[any PhunwareCorePlugin.DeeplinkNavigable]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DeeplinkNavigable",
+                    "printedName": "any PhunwareCorePlugin.DeeplinkNavigable",
+                    "usr": "s:18PhunwareCorePlugin17DeeplinkNavigableP"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[any PhunwareCorePlugin.DeeplinkNavigable]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DeeplinkNavigable",
+                        "printedName": "any PhunwareCorePlugin.DeeplinkNavigable",
+                        "usr": "s:18PhunwareCorePlugin17DeeplinkNavigableP"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[any PhunwareCorePlugin.DeeplinkNavigable]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DeeplinkNavigable",
+                        "printedName": "any PhunwareCorePlugin.DeeplinkNavigable",
+                        "usr": "s:18PhunwareCorePlugin17DeeplinkNavigableP"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC23childNavigationHandlersSay0A10CorePlugin17DeeplinkNavigable_pGvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "unhostedContentCoordinatorDelegate",
+            "printedName": "unhostedContentCoordinatorDelegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any PhunwareCorePlugin.UnhostedCustomContentCoordinatorDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PhunwareCorePlugin.UnhostedCustomContentCoordinatorDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UnhostedCustomContentCoordinatorDelegate",
+                        "printedName": "any PhunwareCorePlugin.UnhostedCustomContentCoordinatorDelegate",
+                        "usr": "s:18PhunwareCorePlugin40UnhostedCustomContentCoordinatorDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PhunwareCorePlugin.UnhostedCustomContentCoordinatorDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "UnhostedCustomContentCoordinatorDelegate",
+                        "printedName": "any PhunwareCorePlugin.UnhostedCustomContentCoordinatorDelegate",
+                        "usr": "s:18PhunwareCorePlugin40UnhostedCustomContentCoordinatorDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC015unhostedContentD8Delegate0A10CorePlugin014UnhostedCustomfdG0_pSgvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any PhunwareAIConcierge.AssistantCoordinatorDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvp",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PhunwareAIConcierge.AssistantCoordinatorDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AssistantCoordinatorDelegate",
+                        "printedName": "any PhunwareAIConcierge.AssistantCoordinatorDelegate",
+                        "usr": "s:19PhunwareAIConcierge28AssistantCoordinatorDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvg",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PhunwareAIConcierge.AssistantCoordinatorDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "AssistantCoordinatorDelegate",
+                        "printedName": "any PhunwareAIConcierge.AssistantCoordinatorDelegate",
+                        "usr": "s:19PhunwareAIConcierge28AssistantCoordinatorDelegateP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvs",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvs",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvM",
+                "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC8delegateAA0cD8Delegate_pSgvM",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(navigationController:moduleConfig:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AssistantCoordinator",
+                "printedName": "PhunwareAIConcierge.AssistantCoordinator",
+                "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UINavigationController",
+                "printedName": "UIKit.UINavigationController",
+                "usr": "c:objc(cs)UINavigationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Configuration",
+                "printedName": "PhunwareAIConcierge.Configuration",
+                "usr": "s:19PhunwareAIConcierge13ConfigurationV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20navigationController12moduleConfigACSo012UINavigationF0C_AA13ConfigurationVtcfc",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20navigationController12moduleConfigACSo012UINavigationF0C_AA13ConfigurationVtcfc",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC5startyyF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC5startyyF",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AssistantCoordinator",
+                "printedName": "PhunwareAIConcierge.AssistantCoordinator",
+                "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator(im)init",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorCACycfc",
+            "moduleName": "PhunwareAIConcierge",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "openDeeplink",
+            "printedName": "openDeeplink(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Deeplink",
+                "printedName": "PhunwareCorePlugin.Deeplink",
+                "usr": "s:18PhunwareCorePlugin8DeeplinkV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC12openDeeplinkySb0A10CorePlugin0F0VF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC12openDeeplinkySb0A10CorePlugin0F0VF",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "queryCanOpenDirectly",
+            "printedName": "queryCanOpenDirectly(_:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Deeplink",
+                "printedName": "PhunwareCorePlugin.Deeplink",
+                "usr": "s:18PhunwareCorePlugin8DeeplinkV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Bool) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC20queryCanOpenDirectly_10completiony0A10CorePlugin8DeeplinkV_ySbctF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC20queryCanOpenDirectly_10completiony0A10CorePlugin8DeeplinkV_ySbctF",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "coordinator",
+            "printedName": "coordinator(_:didCompleteWithPrimedPermissions:fulfilledPermissions:unfulfilledPermissions:failedPermissions:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PermissionPrimingCompletionNavigationAction",
+                "printedName": "PhunwarePermissionPriming.PermissionPrimingCompletionNavigationAction",
+                "usr": "s:25PhunwarePermissionPriming0bC26CompletionNavigationActionO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PermissionPrimingCoordinator",
+                "printedName": "PhunwarePermissionPriming.PermissionPrimingCoordinator",
+                "usr": "s:25PhunwarePermissionPriming0bC11CoordinatorC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Set",
+                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Permission",
+                        "printedName": "PhunwarePermissionPriming.Permission",
+                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                      }
+                    ],
+                    "usr": "s:Sh"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Set",
+                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Permission",
+                        "printedName": "PhunwarePermissionPriming.Permission",
+                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                      }
+                    ],
+                    "usr": "s:Sh"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Set",
+                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Permission",
+                        "printedName": "PhunwarePermissionPriming.Permission",
+                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                      }
+                    ],
+                    "usr": "s:Sh"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Set",
+                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Permission",
+                        "printedName": "PhunwarePermissionPriming.Permission",
+                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                      }
+                    ],
+                    "usr": "s:Sh"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_ShyAI0N0CGSgA3QtF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_ShyAI0N0CGSgA3QtF",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "displayTemplate",
+            "printedName": "displayTemplate(for:permissions:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DisplayTemplate",
+                "printedName": "PhunwarePermissionPriming.DisplayTemplate",
+                "usr": "s:25PhunwarePermissionPriming15DisplayTemplateO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PermissionPrimingCoordinator",
+                "printedName": "PhunwarePermissionPriming.PermissionPrimingCoordinator",
+                "usr": "s:25PhunwarePermissionPriming0bC11CoordinatorC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OrderedSet",
+                "printedName": "PhunwarePermissionPriming.OrderedSet<PhunwarePermissionPriming.Permission>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Permission",
+                    "printedName": "PhunwarePermissionPriming.Permission",
+                    "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                  }
+                ],
+                "usr": "s:25PhunwarePermissionPriming10OrderedSetV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVyAG0I0CGtF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVyAG0I0CGtF",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "Custom",
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@PhunwareAIConcierge@objc(cs)AssistantCoordinator",
+        "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Coordinator",
+            "printedName": "Coordinator",
+            "usr": "s:18PhunwareFoundation11CoordinatorP",
+            "mangledName": "$s18PhunwareFoundation11CoordinatorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UnhostedCustomContentCoordinator",
+            "printedName": "UnhostedCustomContentCoordinator",
+            "usr": "s:18PhunwareCorePlugin32UnhostedCustomContentCoordinatorP",
+            "mangledName": "$s18PhunwareCorePlugin32UnhostedCustomContentCoordinatorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DeeplinkNavigable",
+            "printedName": "DeeplinkNavigable",
+            "usr": "s:18PhunwareCorePlugin17DeeplinkNavigableP",
+            "mangledName": "$s18PhunwareCorePlugin17DeeplinkNavigableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "PermissionPrimingCoordinatorDelegate",
+            "printedName": "PermissionPrimingCoordinatorDelegate",
+            "usr": "s:25PhunwarePermissionPriming0bC19CoordinatorDelegateP",
+            "mangledName": "$s25PhunwarePermissionPriming0bC19CoordinatorDelegateP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Configuration",
+        "printedName": "Configuration",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "theme",
+            "printedName": "theme",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Theme",
+                "printedName": "PhunwareAIConcierge.Theme",
+                "usr": "s:19PhunwareAIConcierge5ThemeV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge13ConfigurationV5themeAA5ThemeVvp",
+            "mangledName": "$s19PhunwareAIConcierge13ConfigurationV5themeAA5ThemeVvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Theme",
+                    "printedName": "PhunwareAIConcierge.Theme",
+                    "usr": "s:19PhunwareAIConcierge5ThemeV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge13ConfigurationV5themeAA5ThemeVvg",
+                "mangledName": "$s19PhunwareAIConcierge13ConfigurationV5themeAA5ThemeVvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "localization",
+            "printedName": "localization",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Localizing",
+                "printedName": "any PhunwareAIConcierge.Localizing",
+                "usr": "s:19PhunwareAIConcierge10LocalizingP"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge13ConfigurationV12localizationAA10Localizing_pvp",
+            "mangledName": "$s19PhunwareAIConcierge13ConfigurationV12localizationAA10Localizing_pvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Localizing",
+                    "printedName": "any PhunwareAIConcierge.Localizing",
+                    "usr": "s:19PhunwareAIConcierge10LocalizingP"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge13ConfigurationV12localizationAA10Localizing_pvg",
+                "mangledName": "$s19PhunwareAIConcierge13ConfigurationV12localizationAA10Localizing_pvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "venueId",
+            "printedName": "venueId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge13ConfigurationV7venueIdSSvp",
+            "mangledName": "$s19PhunwareAIConcierge13ConfigurationV7venueIdSSvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge13ConfigurationV7venueIdSSvg",
+                "mangledName": "$s19PhunwareAIConcierge13ConfigurationV7venueIdSSvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(venueId:theme:localization:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Configuration",
+                "printedName": "PhunwareAIConcierge.Configuration",
+                "usr": "s:19PhunwareAIConcierge13ConfigurationV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Theme",
+                "printedName": "PhunwareAIConcierge.Theme",
+                "hasDefaultArg": true,
+                "usr": "s:19PhunwareAIConcierge5ThemeV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any PhunwareAIConcierge.Localizing)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Localizing",
+                    "printedName": "any PhunwareAIConcierge.Localizing",
+                    "usr": "s:19PhunwareAIConcierge10LocalizingP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PhunwareAIConcierge13ConfigurationV7venueId5theme12localizationACSS_AA5ThemeVAA10Localizing_pSgtcfc",
+            "mangledName": "$s19PhunwareAIConcierge13ConfigurationV7venueId5theme12localizationACSS_AA5ThemeVAA10Localizing_pSgtcfc",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19PhunwareAIConcierge13ConfigurationV",
+        "mangledName": "$s19PhunwareAIConcierge13ConfigurationV",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Localizing",
+        "printedName": "Localizing",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "localized",
+            "printedName": "localized(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19PhunwareAIConcierge10LocalizingP9localizedyS2SF",
+            "mangledName": "$s19PhunwareAIConcierge10LocalizingP9localizedyS2SF",
+            "moduleName": "PhunwareAIConcierge",
+            "genericSig": "<τ_0_0 where τ_0_0 : PhunwareAIConcierge.Localizing>",
+            "sugared_genericSig": "<Self where Self : PhunwareAIConcierge.Localizing>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19PhunwareAIConcierge10LocalizingP",
+        "mangledName": "$s19PhunwareAIConcierge10LocalizingP",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "PhunwareTheming",
+        "printedName": "PhunwareTheming",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Theme",
+        "printedName": "Theme",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "colors",
+            "printedName": "colors",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ColorPalette",
+                "printedName": "PhunwareTheming.ColorPalette",
+                "usr": "s:15PhunwareTheming12ColorPaletteV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge5ThemeV6colors0A7Theming12ColorPaletteVvp",
+            "mangledName": "$s19PhunwareAIConcierge5ThemeV6colors0A7Theming12ColorPaletteVvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ColorPalette",
+                    "printedName": "PhunwareTheming.ColorPalette",
+                    "usr": "s:15PhunwareTheming12ColorPaletteV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge5ThemeV6colors0A7Theming12ColorPaletteVvg",
+                "mangledName": "$s19PhunwareAIConcierge5ThemeV6colors0A7Theming12ColorPaletteVvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "textStyles",
+            "printedName": "textStyles",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TextStyles",
+                "printedName": "PhunwareTheming.TextStyles",
+                "usr": "s:15PhunwareTheming10TextStylesV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:19PhunwareAIConcierge5ThemeV10textStyles0A7Theming04TextE0Vvp",
+            "mangledName": "$s19PhunwareAIConcierge5ThemeV10textStyles0A7Theming04TextE0Vvp",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TextStyles",
+                    "printedName": "PhunwareTheming.TextStyles",
+                    "usr": "s:15PhunwareTheming10TextStylesV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:19PhunwareAIConcierge5ThemeV10textStyles0A7Theming04TextE0Vvg",
+                "mangledName": "$s19PhunwareAIConcierge5ThemeV10textStyles0A7Theming04TextE0Vvg",
+                "moduleName": "PhunwareAIConcierge",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(colors:textStyles:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Theme",
+                "printedName": "PhunwareAIConcierge.Theme",
+                "usr": "s:19PhunwareAIConcierge5ThemeV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PhunwareTheming.ColorPalette?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ColorPalette",
+                    "printedName": "PhunwareTheming.ColorPalette",
+                    "usr": "s:15PhunwareTheming12ColorPaletteV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "PhunwareTheming.TextStyles?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TextStyles",
+                    "printedName": "PhunwareTheming.TextStyles",
+                    "usr": "s:15PhunwareTheming10TextStylesV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19PhunwareAIConcierge5ThemeV6colors10textStylesAC0A7Theming12ColorPaletteVSg_AF04TextF0VSgtcfc",
+            "mangledName": "$s19PhunwareAIConcierge5ThemeV6colors10textStylesAC0A7Theming12ColorPaletteVSg_AF04TextF0VSgtcfc",
+            "moduleName": "PhunwareAIConcierge",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19PhunwareAIConcierge5ThemeV",
+        "mangledName": "$s19PhunwareAIConcierge5ThemeV",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "DeveloperToolsSupport",
+        "printedName": "DeveloperToolsSupport",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PhunwareAIConcierge",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2587,
+      "length": 19,
+      "value": "\"Chat_Intent_Types\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2643,
+      "length": 18,
+      "value": "\"Chat_POI_Clicked\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2701,
+      "length": 21,
+      "value": "\"Chat_Intent_Clicked\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2803,
+      "length": 8,
+      "value": "\"Intent\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2853,
+      "length": 11,
+      "value": "\"POI_Title\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2903,
+      "length": 8,
+      "value": "\"POI_Id\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 2956,
+      "length": 7,
+      "value": "\"Title\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3006,
+      "length": 5,
+      "value": "\"Url\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3056,
+      "length": 7,
+      "value": "\"Phone\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3108,
+      "length": 7,
+      "value": "\"Email\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3151,
+      "length": 12,
+      "value": "\"Request_Id\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "StringLiteral",
+      "offset": 354,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 402,
+      "length": 2,
+      "value": "35"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 584,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 747,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 846,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 888,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
+      "kind": "StringLiteral",
+      "offset": 11851,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "Array",
+      "offset": 634,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 714,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 750,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 855,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 897,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 984,
+      "length": 7,
+      "value": "\"en-US\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/Chat.swift",
+      "kind": "Array",
+      "offset": 1018,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/Chat.swift",
+      "kind": "Array",
+      "offset": 1058,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/Chat.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1133,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/ChatAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 3958,
+      "length": 39,
+      "value": "\"https:\/\/assistant-api.phunware.com\/v1\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/ChatAPI.swift",
+      "kind": "StringLiteral",
+      "offset": 4029,
+      "length": 16,
+      "value": "\"dummy-deviceId\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/IntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1652,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/IntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1667,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/IntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 1699,
+      "length": 7,
+      "value": "\"Hello\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageRetryView.swift",
+      "kind": "StringLiteral",
+      "offset": 1287,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageRetryView.swift",
+      "kind": "StringLiteral",
+      "offset": 1302,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageRetryView.swift",
+      "kind": "StringLiteral",
+      "offset": 1334,
+      "length": 16,
+      "value": "\"Failed Message\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageRetryView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1379,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 384,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3796,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3829,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3867,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3899,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "StringLiteral",
+      "offset": 4892,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "StringLiteral",
+      "offset": 4919,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/MessageView.swift",
+      "kind": "StringLiteral",
+      "offset": 4975,
+      "length": 14,
+      "value": "\"user message\""
+    },
+    {
+      "filePath": "@__swiftmacro_19PhunwareAIConcierge0022MessageViewswift_tiAIefMX135_0_33_49A73812F4C2438D779B932827E229A4Ll7PreviewfMf_.swift",
+      "kind": "StringLiteral",
+      "offset": 866,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "@__swiftmacro_19PhunwareAIConcierge0022MessageViewswift_tiAIefMX135_0_33_49A73812F4C2438D779B932827E229A4Ll7PreviewfMf_.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "@__swiftmacro_19PhunwareAIConcierge0022MessageViewswift_tiAIefMX135_0_33_49A73812F4C2438D779B932827E229A4Ll7PreviewfMf_.swift",
+      "kind": "StringLiteral",
+      "offset": 985,
+      "length": 14,
+      "value": "\"user message\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/POIIntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2560,
+      "length": 5,
+      "value": "\"123\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/POIIntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2578,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/POIIntentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2610,
+      "length": 19,
+      "value": "\"Hello Core Sample\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/RateConversationView.swift",
+      "kind": "StringLiteral",
+      "offset": 2734,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/RateConversationView.swift",
+      "kind": "StringLiteral",
+      "offset": 2765,
+      "length": 8,
+      "value": "\"123456\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/RateConversationView.swift",
+      "kind": "StringLiteral",
+      "offset": 2834,
+      "length": 14,
+      "value": "\"user message\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/RecordingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 360,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/RecordingView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 440,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Common\/UserDefaultsAccessing.swift",
+      "kind": "StringLiteral",
+      "offset": 1788,
+      "length": 37,
+      "value": "\"PhunwareAIConcierge.chatBotThreadId\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Common\/UserDefaultsAccessing.swift",
+      "kind": "StringLiteral",
+      "offset": 1865,
+      "length": 30,
+      "value": "\"PhunwareCore.chatBotThreadId\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1787,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1835,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1879,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1927,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1975,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2015,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2055,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2098,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2144,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Public\/Theme.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2189,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 12,
+      "value": "\"Background\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 760,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 901,
+      "length": 14,
+      "value": "\"OnBackground\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1039,
+      "length": 9,
+      "value": "\"OnError\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1176,
+      "length": 11,
+      "value": "\"OnPrimary\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1319,
+      "length": 13,
+      "value": "\"OnSecondary\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1460,
+      "length": 11,
+      "value": "\"OnSurface\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1595,
+      "length": 9,
+      "value": "\"Primary\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1742,
+      "length": 16,
+      "value": "\"PrimaryVariant\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1886,
+      "length": 11,
+      "value": "\"Secondary\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2039,
+      "length": 18,
+      "value": "\"SecondaryVariant\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2181,
+      "length": 9,
+      "value": "\"Surface\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2332,
+      "length": 18,
+      "value": "\"SurfaceContainer\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/Library\/Developer\/Xcode\/DerivedData\/AIConcierge-aakvkwfagatauoeiozmildijdfjj\/Build\/Intermediates.noindex\/ArchiveIntermediates\/PhunwareAIConcierge\/IntermediateBuildFilesPath\/AIConcierge.build\/Release-iphoneos\/PhunwareAIConcierge.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2571,
+      "length": 5,
+      "value": "\"poi\""
+    }
+  ]
+}
