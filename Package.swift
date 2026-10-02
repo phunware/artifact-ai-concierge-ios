@@ -43,7 +43,7 @@ let package = Package(
                 .product(name: "PhunwareTheming", package: "artifact-theming-ios"),
                 .product(name: "PhunwareCorePlugin", package: "artifact-core-plugin-ios"),
                 .product(name: "PhunwareMicrophonePermission", package: "artifact-permissions-ios"),
-                .product(name: "PhunwareSpeechRecognizerPermission", package: "artifact-permissions-ios")
+                .product(name: "PhunwareSpeechRecognitionPermission", package: "artifact-permissions-ios")
             ],
             path: "PhunwareAIConciergeTargets"
         )
