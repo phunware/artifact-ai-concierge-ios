@@ -1,0 +1,69 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target arm64-apple-ios15.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name PhunwareAIConcierge
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import Combine
+import DeveloperToolsSupport
+import Foundation
+import PWCore
+import PhunwareCorePlugin
+import PhunwareFoundation
+import PhunwarePermissionPriming
+import PhunwareTheming
+import Speech
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+
+
+
+
+
+
+
+public protocol AssistantCoordinatorDelegate : AnyObject {
+  func coordinator(_ coordinator: AssistantCoordinator, didTrigger action: Action, for intent: String)
+  func coordinatorDidFinish(_ coordinator: AssistantCoordinator)
+}
+@objc final public class AssistantCoordinator : NSObject, @preconcurrency Coordinator, UnhostedCustomContentCoordinator {
+  final public var navigationController: UINavigationController
+  final public var childCoordinators: [any PhunwareFoundation.Coordinator]
+  final public var pendingDeeplink: DeferredDeeplink?
+  final public var childNavigationHandlers: [any PhunwareCorePlugin.DeeplinkNavigable]
+  weak final public var unhostedContentCoordinatorDelegate: UnhostedCustomContentCoordinatorDelegate?
+  weak final public var delegate: AssistantCoordinatorDelegate?
+  @_Concurrency.MainActor public init(navigationController: UINavigationController, moduleConfig: Configuration)
+  @_Concurrency.MainActor final public func start()
+  @objc deinit
+}
+extension AssistantCoordinator : DeeplinkNavigable {
+  final public func openDeeplink(_ deeplink: Deeplink) -> Bool
+  final public func queryCanOpenDirectly(_ deeplink: Deeplink, completion: @escaping (Bool) -> Void)
+}
+@_Concurrency.MainActor extension AssistantCoordinator : @preconcurrency PermissionPrimingCoordinatorDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor final public func coordinator(_ coordinator: PermissionPrimingCoordinator, didCompleteWithPrimedPermissions primedPermissions: Set<Permission>?, fulfilledPermissions: Set<Permission>?, unfulfilledPermissions: Set<Permission>?, failedPermissions: Set<Permission>?) -> PermissionPrimingCompletionNavigationAction
+  #endif
+  @_Concurrency.MainActor final public func displayTemplate(for coordinator: PermissionPrimingCoordinator, permissions: OrderedSet<Permission>) -> DisplayTemplate
+}
+public struct Configuration {
+  public let theme: Theme
+  public let localization: Localizing
+  public let venueId: String
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(venueId: String, theme: Theme = .init(), localization: Localizing? = nil)
+  #endif
+}
+public protocol Localizing {
+  func localized(_ key: String) -> String
+}
+public struct Theme {
+  public let colors: ColorPalette
+  public let textStyles: TextStyles
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(colors: ColorPalette? = nil, textStyles: TextStyles? = nil)
+  #endif
+}
