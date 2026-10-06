@@ -1354,18 +1354,18 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Set",
-                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Permission",
-                        "printedName": "PhunwarePermissionPriming.Permission",
-                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                        "printedName": "PhunwarePermissionCommon.Permission",
+                        "usr": "c:@M@PhunwarePermissionCommon@objc(cs)Permission"
                       }
                     ],
                     "usr": "s:Sh"
@@ -1376,18 +1376,18 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Set",
-                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Permission",
-                        "printedName": "PhunwarePermissionPriming.Permission",
-                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                        "printedName": "PhunwarePermissionCommon.Permission",
+                        "usr": "c:@M@PhunwarePermissionCommon@objc(cs)Permission"
                       }
                     ],
                     "usr": "s:Sh"
@@ -1398,18 +1398,18 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Set",
-                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Permission",
-                        "printedName": "PhunwarePermissionPriming.Permission",
-                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                        "printedName": "PhunwarePermissionCommon.Permission",
+                        "usr": "c:@M@PhunwarePermissionCommon@objc(cs)Permission"
                       }
                     ],
                     "usr": "s:Sh"
@@ -1420,18 +1420,18 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>?",
+                "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Set",
-                    "printedName": "Swift.Set<PhunwarePermissionPriming.Permission>",
+                    "printedName": "Swift.Set<PhunwarePermissionCommon.Permission>",
                     "children": [
                       {
                         "kind": "TypeNominal",
                         "name": "Permission",
-                        "printedName": "PhunwarePermissionPriming.Permission",
-                        "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                        "printedName": "PhunwarePermissionCommon.Permission",
+                        "usr": "c:@M@PhunwarePermissionCommon@objc(cs)Permission"
                       }
                     ],
                     "usr": "s:Sh"
@@ -1441,8 +1441,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_ShyAI0N0CGSgA3QtF",
-            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_ShyAI0N0CGSgA3QtF",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_Shy0aN6Common0N0CGSgA3RtF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC11coordinator_32didCompleteWithPrimedPermissions09fulfilledJ0011unfulfilledJ006failedJ00A17PermissionPriming0nO26CompletionNavigationActionOAI0noD0C_Shy0aN6Common0N0CGSgA3RtF",
             "moduleName": "PhunwareAIConcierge",
             "declAttributes": [
               "Custom",
@@ -1472,21 +1472,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "OrderedSet",
-                "printedName": "PhunwarePermissionPriming.OrderedSet<PhunwarePermissionPriming.Permission>",
+                "printedName": "PhunwarePermissionPriming.OrderedSet<PhunwarePermissionCommon.Permission>",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "Permission",
-                    "printedName": "PhunwarePermissionPriming.Permission",
-                    "usr": "c:@M@PhunwarePermissionPriming@objc(cs)Permission"
+                    "printedName": "PhunwarePermissionCommon.Permission",
+                    "usr": "c:@M@PhunwarePermissionCommon@objc(cs)Permission"
                   }
                 ],
                 "usr": "s:25PhunwarePermissionPriming10OrderedSetV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVyAG0I0CGtF",
-            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVyAG0I0CGtF",
+            "usr": "s:19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVy0aI6Common0I0CGtF",
+            "mangledName": "$s19PhunwareAIConcierge20AssistantCoordinatorC15displayTemplate3for11permissions0A17PermissionPriming07DisplayF0OAG0ijD0C_AG10OrderedSetVy0aI6Common0I0CGtF",
             "moduleName": "PhunwareAIConcierge",
             "declAttributes": [
               "Custom",
