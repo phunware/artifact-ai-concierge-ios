@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = 'Frameworks/PhunwareAIConcierge.xcframework'
   spec.cocoapods_version = '>= 1.16.2'
 
-  spec.dependency 'PWCore', '~> 3.13.2'
+  spec.dependency 'PWCore', '~> 3.13.3'
   spec.dependency 'PhunwareCorePlugin', '~> 1.2.0'
   spec.dependency 'PhunwareFoundation', '~> 1.1.0'
   spec.dependency 'PhunwareTheming', '~> 1.1.2'
