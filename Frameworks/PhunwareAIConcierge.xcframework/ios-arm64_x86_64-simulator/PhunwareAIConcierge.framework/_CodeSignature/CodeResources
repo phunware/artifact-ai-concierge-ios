@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		qXGfrMK46xSsKlHysc4kvgt+rVc=
+		mrZByjifTddQ1kCU+8frrZ4ZdnM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JHtaw5sjcW3jKYrlcBDVKaaVmb0=
+		gJTdCBs98KEBWmfq4mHPgpzWp1o=
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r83iB/Zb7WeEQ2erIuYc67L5wFw=
+		izIru0g4DSA/SujIKJx2OnPyUBI=
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JHtaw5sjcW3jKYrlcBDVKaaVmb0=
+		gJTdCBs98KEBWmfq4mHPgpzWp1o=
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WwiCy9kY1Q8WhcX24Zcv2MfAfys=
+		1gGRpLkAFTK14Xb6QN8dpdHKlj4=
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UD3erYrGCPdU5En5u9x6USJl2RC1siIGRXNeJCLSdYo=
+			yUaHy+qD4PeNMe2xKpddXTdo8+2Kr6aQDDbzxAYc+qY=
 			</data>
 		</dict>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jtlFCHI7qgs5SPaIad7twJOv1ZQCoXq9rMBhnc6E5fM=
+			9yrXErYFkc9dqep1QcPNbQV7sdTTBkmYjPWvfkM5PUU=
 			</data>
 		</dict>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -107,14 +107,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BDKhL0V3kTU6av7R3WWTPSO7xEM+/XcKggVZ9PH4MAk=
+			QSRZq7hPmfQ9W4s6cl23Edl6+osnqBVZJaBmt25+YLI=
 			</data>
 		</dict>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jtlFCHI7qgs5SPaIad7twJOv1ZQCoXq9rMBhnc6E5fM=
+			9yrXErYFkc9dqep1QcPNbQV7sdTTBkmYjPWvfkM5PUU=
 			</data>
 		</dict>
 		<key>Modules/PhunwareAIConcierge.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -142,7 +142,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qhr3U/bsmI8hoF4a2I1A8Mv2K5uIPKjNH8JaOqYa56o=
+			ob/cJbVYnWFRHviqbqYsYHHopXMp6L5h4rdRA7/tIjE=
 			</data>
 		</dict>
 		<key>PrivacyInfo.xcprivacy</key>

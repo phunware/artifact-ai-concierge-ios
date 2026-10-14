@@ -2145,79 +2145,107 @@
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2587,
+      "offset": 3696,
       "length": 19,
       "value": "\"Chat_Intent_Types\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2643,
+      "offset": 3752,
       "length": 18,
       "value": "\"Chat_POI_Clicked\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2701,
+      "offset": 3810,
       "length": 21,
       "value": "\"Chat_Intent_Clicked\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2803,
+      "offset": 3873,
+      "length": 23,
+      "value": "\"Chat_Rating_Submitted\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 3940,
+      "length": 25,
+      "value": "\"Chat_Question_Submitted\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4046,
       "length": 8,
       "value": "\"Intent\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2853,
+      "offset": 4096,
       "length": 11,
       "value": "\"POI_Title\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2903,
+      "offset": 4146,
       "length": 8,
       "value": "\"POI_Id\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 2956,
+      "offset": 4199,
       "length": 7,
       "value": "\"Title\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 3006,
+      "offset": 4249,
       "length": 5,
       "value": "\"Url\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 3056,
+      "offset": 4299,
       "length": 7,
       "value": "\"Phone\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 3108,
+      "offset": 4351,
       "length": 7,
       "value": "\"Email\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
       "kind": "StringLiteral",
-      "offset": 3151,
+      "offset": 4394,
       "length": 12,
       "value": "\"Request_Id\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4440,
+      "length": 14,
+      "value": "\"Assistant_Id\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Analytics\/PhunwareAnalytics.swift",
+      "kind": "StringLiteral",
+      "offset": 4485,
+      "length": 11,
+      "value": "\"Thumbs_Up\""
     },
     {
       "filePath": "\/Users\/jenkins\/slave_data\/workspace\/artifact-ai-concierge-external-ios\/AIConcierge\/Internal\/Chat\/AssistantView.swift",
